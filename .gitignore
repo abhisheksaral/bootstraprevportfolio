@@ -1,0 +1,8 @@
+/.parcel-cache
+/assets
+/dist
+/node_modules
+/package-lock.json
+/package.json
+/scss
+/src
